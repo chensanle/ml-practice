@@ -86,7 +86,7 @@ if __name__ == '__main__':
     test_score(datasets.load_wine())
 
 
-# https://www.bilibili.com/video/BV1h8411E7VL
+# https://www.bilibili.com/video/BV1h8411E7VL 贝叶斯概念、垃圾邮件过滤
 # https://github.com/fengdu78/WZU-machine-learning-course/blob/main/code/06-%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF/ML-lesson6-NB.ipynb
 # https://github.com/amallia/GaussianNB
 # 《统计学习方法》第二版 第四章 朴素贝叶斯法
